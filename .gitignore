@@ -1,0 +1,14 @@
+config.py
+.env
+creds.json
+bot_data.db
+vk_bot.log
+__pycache__
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+venv
